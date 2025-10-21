@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**UzairMalik17/UzairMalik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![An image of @uzairmalik17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uzairmalik17)](https://holopin.io/@uzairmalik17)
 
-Here are some ideas to get you started:
+I'm **Uzair Malik**, a passionate **Software Developer** who loves building full-stack applications and contributing to open-source.  
+Currently exploring exciting technologies like **React, Node.js, NestJS, and TypeScript** 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎃 Hacktoberfest 2025 Contributions
+
+I participated in **Hacktoberfest 2025**, contributing to open-source repositories across GitHub.
+
+- **Total Pull Requests:** 8  
+- **Accepted by Hacktoberfest:** 2  
+- **Under Review:** 6  
+- **Holopin Badge:** [View my badge](https://holopin.io/@yourusername)
+  
+> Open-source collaboration has been an amazing experience — I look forward to contributing more!
+
+---
+
+### 💻 Tech Stack
+- **Frontend:** React.js, Redux, TailwindCSS  
+- **Backend:** Node.js, Express.js, NestJS  
+- **Database:** MongoDB, PostgreSQL  
+- **Other:** TypeScript, Git, REST APIs
+
+---
+
+⭐ *Thanks for visiting my profile! Check out my repositories and feel free to connect.*
+
+---
