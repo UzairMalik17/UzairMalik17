@@ -14,7 +14,7 @@ I participated in **Hacktoberfest 2025**, contributing to open-source repositori
 - **Total Pull Requests:** 8  
 - **Accepted by Hacktoberfest:** 2  
 - **Under Review:** 6  
-- **Holopin Badge:** [View my badge](https://holopin.io/@yourusername)
+- **Holopin Badge:** [View my badge](https://holopin.io/@uzairmalik17)
   
 > Open-source collaboration has been an amazing experience — I look forward to contributing more!
 
